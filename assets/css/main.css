@@ -3134,7 +3134,7 @@
 .nameJT{
 	margin-top: 2em !important;
 	/* padding-top: 2em !important; */
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	text-align: center;
 }
 
@@ -3162,4 +3162,9 @@ margin-right: 6em;
 
 .center {
 
+}
+
+
+.offset {
+	margin-top: 1em;
 }
